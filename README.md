@@ -41,7 +41,7 @@
 
 ## 🙋 FAQ
 
-- Q: **_"What android are supported?"_**\
+- Q: **_"What android roms are supported?"_**\
   A: Curently the only supported rom is lineage os 22
 
 - Q: **_"Is root required?"_**\
