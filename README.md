@@ -49,7 +49,6 @@
 
 ## Broken Apps
 
-### Applications in this category are know to be a problem by the maintainers and will be fixed soon if possible
 ### If an application is broken please make issue
 
 - LocalSend (Uses text color on accented buttons in settings)
