@@ -49,7 +49,7 @@
 
 ## Broken Apps
 
-### If an application is broken please make issue
+**If an application that you see here is broken please make issue**
 
 - LocalSend (Uses text color on accented buttons in settings)
 - Fossify application suite (uses base color on navigation bar and on sellected tab)
