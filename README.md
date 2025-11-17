@@ -49,8 +49,6 @@
 
 ## 💝 Thanks to
 
-**Current maintainer**
-
 - [Luna-Terra](https://github.com/Luna-Terra-CG)
 
 &nbsp;
