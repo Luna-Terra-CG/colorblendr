@@ -36,13 +36,13 @@
 
 ## Usage
 
-1. Download the flavor of your choice the github pages 'themes' folder
+1. Download your preferred flavor(s) from [themes/](https://github.com/catppuccin/colorblendr/tree/main/themes)
 2. Restore the downloaded .colorblendr file in colorblendr's settings under Backup & Restore configs
 
 ## 🙋 FAQ
 
 - Q: **_"What android roms are supported?"_**\
-  A: Curently the only supported rom is lineage os 22
+  A: Curently the only supported rom is lineage os 22, But it will work on almost all android roms.
 
 - Q: **_"Is root required?"_**\
   A: Yes
