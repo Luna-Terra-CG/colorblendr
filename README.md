@@ -42,7 +42,7 @@
 ## 🙋 FAQ
 
 - Q: **_"What android roms are compatible?"_**\
-  A: All roms that don't change or remove material you are fully compatible, examples of this are /e/os and oneui
+  A: All roms that don't change or remove material you color theming are fully compatible, examples of this are /e/os and oneui
 
 - Q: **_"Is root required?"_**\
   A: Yes
