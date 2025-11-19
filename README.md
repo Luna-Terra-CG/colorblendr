@@ -37,7 +37,9 @@
 ## Usage
 
 1. Download your preferred flavor(s) from [themes/](https://github.com/catppuccin/colorblendr/tree/main/themes)
-2. Restore the downloaded .colorblendr file in colorblendr's settings under Backup & Restore configs
+2. Set colors to 'Natural' in android display settings
+3. Enable 'Dark theme' if you are using a Frappé, Macchiato or Mocha theme and disable it if you are using a Latte theme
+4. Restore the downloaded .colorblendr file in colorblendr's settings under Backup & Restore configs
 
 ## 🙋 FAQ
 
