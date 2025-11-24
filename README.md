@@ -51,7 +51,7 @@
 
 ## 💝 Thanks to
 
-- [Luna-Terra](https://github.com/Luna-Terra-CG)
+- [Luna-Terra-CG](https://github.com/Luna-Terra-CG)
 
 &nbsp;
 
